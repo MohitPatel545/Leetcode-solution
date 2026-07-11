@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
