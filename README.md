@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
