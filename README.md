@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
