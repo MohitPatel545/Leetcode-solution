@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
