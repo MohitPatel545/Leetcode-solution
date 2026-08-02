@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
