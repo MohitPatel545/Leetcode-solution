@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
