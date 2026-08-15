@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0069-sqrtx) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
