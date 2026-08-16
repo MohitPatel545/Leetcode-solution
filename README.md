@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
