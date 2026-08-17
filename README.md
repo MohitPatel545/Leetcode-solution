@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1260-shift-2d-grid) |
