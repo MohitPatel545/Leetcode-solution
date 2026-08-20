@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
