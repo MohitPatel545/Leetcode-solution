@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0242-valid-anagram) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
