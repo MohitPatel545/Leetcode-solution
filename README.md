@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0567-permutation-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
