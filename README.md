@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2351-first-letter-to-appear-twice](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1002-find-common-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
+| [2351-first-letter-to-appear-twice](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
+| [2351-first-letter-to-appear-twice](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2351-first-letter-to-appear-twice) |
 ## Bracket Sequences
 |  |
 | ------- |
