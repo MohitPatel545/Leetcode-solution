@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0344-reverse-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
