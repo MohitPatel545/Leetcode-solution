@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2351-first-letter-to-appear-twice](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -245,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
 | ------- |
