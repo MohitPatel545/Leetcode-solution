@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitPatel545/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohitPatel545/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MohitPatel545/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohitPatel545/Leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
